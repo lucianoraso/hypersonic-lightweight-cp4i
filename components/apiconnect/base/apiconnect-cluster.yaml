@@ -5,7 +5,7 @@ metadata:
     app.kubernetes.io/instance: apiconnect
     app.kubernetes.io/managed-by: ibm-apiconnect
     app.kubernetes.io/name: apiconnect-small
-  name: apic-small
+  name:  apic-cluster
   namespace: cp4i
 spec:
   analytics:

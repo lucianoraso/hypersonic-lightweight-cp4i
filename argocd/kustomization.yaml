@@ -17,7 +17,7 @@ resources:
   #- apps/ibm-offices.yaml
   #- apps/ace-hello-world.yaml
 
-  - apis-and-products.yaml
+  #- apis-and-products.yaml
 
 patches:
 - target:
